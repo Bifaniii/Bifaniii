@@ -1,27 +1,40 @@
-# 👋 Olá! Eu sou o Guilherme Bifani de Santana  
+<!-- README.md -->
+<h1 align="center">👋 Olá, sou o Guilherme Bifani!</h1>
 
-📌 **Quem sou eu?**  
-Sou um profissional em transição de carreira da área da saúde para tecnologia. Atualmente, curso **Engenharia de Software** e estou me especializando em **Python para Análise de Dados e Data Science**. Sempre tive facilidade com tecnologia e percebi que poderia aliar esse interesse ao meu desejo de crescimento profissional.  
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</p>
 
-📚 **Minha jornada acadêmica e profissional**  
-- 🏥 Iniciei minha trajetória acadêmica na área da saúde, passando por Biomedicina, Medicina (na Argentina 🇦🇷, onde aprendi espanhol) e Fisioterapia.  
-- 🖥️ Atualmente, estou no **1º semestre de Engenharia de Software** e focado em aprimorar minhas habilidades em programação.  
-- 💼 Minha experiência profissional inclui atuação como **Operador de Teleatendimento** e, atualmente, **Assistente Administrativo** no Grupo Fleury.  
+---
 
-🚀 **O que estou estudando?**  
-- 📊 **Data Science**: Python, Pandas, NumPy, Matplotlib e SQL  
-- 🤖 **Interesse futuro**: Machine Learning e previsão de dados  
-- 🔧 **Desenvolvimento de Projetos**: Quero aplicar meus conhecimentos em projetos práticos  
+<h2>💻 Sobre mim</h2>
+<p>Sou estudante de Engenharia de Software e atualmente estou explorando <strong>Java</strong> e aprimorando meu conhecimento em <strong>Python</strong>. Tenho interesse por <strong>Data Science</strong> e <strong>Machine Learning</strong>, mas ainda estou nos primeiros passos nessa área.</p>
 
-🎯 **Objetivo**  
-Quero construir projetos que envolvam **análise de dados e previsões** e compartilhar meu aprendizado com a comunidade.  
+---
 
-📌 **Curiosidades sobre mim**  
-- 📚 Amo ler! Sempre estou com um livro em mãos  
-- 🏐 Pratico **voleibol** nas horas vagas (quase nunca)
-- 🎮 Gosto de jogar **video games**  
-- 🎵 Apaixonado por **música, especialmente rap**  
+<h2>🚀 Tecnologias e Ferramentas</h2>
+<p>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
+</p>
 
-📫 **Conecte-se comigo!**  
-🔗 [LinkedIn](https://www.linkedin.com/in/guilhermebifani/)  
+---
 
+<h2>📚 O que estou aprendendo</h2>
+<ul>
+  <li>☕ Java e sua aplicação no desenvolvimento de software</li>
+  <li>🐍 Python para automação e lógica de programação</li>
+  <li>📊 Conceitos básicos de Data Science e Machine Learning</li>
+</ul>
+
+---
+
+<h2>📬 Contato</h2>
+<p>
+  <a href="https://www.linkedin.com/in/guilhermebifani" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/bifaniii" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
