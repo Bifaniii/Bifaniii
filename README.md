@@ -1,9 +1,5 @@
 <!-- README.md -->
-<h1 align="center">👋 Olá, sou o Guilherme Bifani!</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-</p>
+<h1 align="center">Olá, sou o Guilherme Bifani!</h1>
 
 ---
 
@@ -16,6 +12,7 @@
 <p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white">
 </p>
 
 ---
