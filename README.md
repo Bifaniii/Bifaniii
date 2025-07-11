@@ -4,7 +4,7 @@
 ---
 
 <h2>💻 Sobre mim</h2>
-<p>Sou estudante de Engenharia de Software e atualmente estou explorando <strong>Java</strong> e aprimorando meu conhecimento em <strong>Python</strong>. Tenho interesse por <strong>Data Science</strong> e <strong>Machine Learning</strong>, mas ainda estou nos primeiros passos nessa área.</p>
+<p>Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente estou explorando <strong>Java</strong> e aprimorando meu conhecimento em <strong>Python</strong>. Tenho interesse por <strong>Data Science</strong> e <strong>Machine Learning</strong>, mas ainda estou nos primeiros passos nessa área.</p>
 
 ---
 
@@ -13,6 +13,12 @@
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white">
+  <img src="https://img.shields.io/badge/Seaborn-4C4C4C?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
 ---
