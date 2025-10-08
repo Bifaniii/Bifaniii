@@ -40,7 +40,7 @@
 
 <h2>📂 Projetos em destaque</h2>
 <ul>
-  <li><strong>Conta Bancária (Java Terminal)</strong> – Simulação de conta com cadastro, saldo, saque e depósito. <a href="https://github.com/Bifaniii/Conta-Java-Terminal">Ver projeto</a></li>
+  <li><strong>Portfolio Web</strong> – Página pessoal desenvolvida com HTML, CSS e JavaScript para apresentar meus projetos e trajetória. <a href="https://github.com/Bifaniii/portfolio-web">Ver projeto</a></li>
   <li><strong>Sistema Bancário com POO</strong> – Projeto com regras de negócio, cheque especial e pagamento de boletos. <a href="https://github.com/Bifaniii/conta-bancaria-bifani">Ver projeto</a></li>
   <li><strong>Health Analytics</strong> – Análise de dados fictícios da saúde com Python e SQL. <a href="https://github.com/Bifaniii/HealthAnalytics-personal-project">Ver projeto</a></li>
 </ul>
