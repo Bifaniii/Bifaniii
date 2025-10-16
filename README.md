@@ -21,21 +21,21 @@
 
 <h2>🚀 Tecnologias e Ferramentas</h2>
 <p>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white">
-  <img src="https://img.shields.io/badge/Seaborn-4C4C4C?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-007ACC?style=flat&logo=matplotlib&logoColor=white">
+  <img src="https://img.shields.io/badge/Seaborn-4C4C4C?style=flat&logo=python&logoColor=white">
 </p>
 
 ---
@@ -61,12 +61,12 @@
 <h2>📬 Contato</h2>
 <p>
 <a href="mailto:gbifani.tech@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-gbifani.tech@gmail.com-red?style=for-the-badge&logo=gmail">
+  <img src="https://img.shields.io/badge/Email-Enviar%20mensagem?style=social&logo=gmail">
 </a>
 <a href="https://linkedin.com/in/guilhermebifani" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar?style=social&logo=linkedin">
 </a>
 <a href="https://linktr.ee/guilhermebifani?utm_source=linktree_profile_share&ltsid=ed8aaf78-0d3b-461b-ae3c-d04bb693a54a" target="_blank">
-  <img src="https://img.shields.io/badge/Linktree-Acessar-39E09B?style=for-the-badge&logo=linktree">
+  <img src="https://img.shields.io/badge/Linktree-Acessar?style=social&logo=linktree">
 </a>
 </p>
