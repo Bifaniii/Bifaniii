@@ -60,13 +60,13 @@
 
 <h2>📬 Contato</h2>
 <p>
-<a href="mailto:gbifani.tech@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-Enviar%20mensagem?style=social&logo=gmail">
-</a>
-<a href="https://linkedin.com/in/guilhermebifani" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar?style=social&logo=linkedin">
-</a>
-<a href="https://linktr.ee/guilhermebifani?utm_source=linktree_profile_share&ltsid=ed8aaf78-0d3b-461b-ae3c-d04bb693a54a" target="_blank">
-  <img src="https://img.shields.io/badge/Linktree-Acessar?style=social&logo=linktree">
-</a>
+  <a href="mailto:gbifani.tech@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Enviar%20mensagem?style=social&logo=gmail">
+  </a>
+  <a href="https://linkedin.com/in/guilhermebifani" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-GuilhermeBifani-blue?style=social&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://linktr.ee/guilhermebifani" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-Acessar?style=social&logo=linktree">
+  </a>
 </p>
