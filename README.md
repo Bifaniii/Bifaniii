@@ -70,28 +70,16 @@
     <img src="https://img.shields.io/badge/Linktree-Acessar?style=social&logo=linktree">
   </a>
 </p>
----
-
-<h2>📊 Estatísticas do GitHub</h2>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Bifaniii&show_icons=true&theme=maroon&hide_border=true" alt="GitHub Stats">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bifaniii&layout=compact&theme=maroon&hide_border=true" alt="Top Languages">
-    </td>
-  </tr>
-</table>
-
 
 ---
 
 <h2>📊 Estatísticas do GitHub</h2>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bifaniii&show_icons=true&theme=maroon&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bifaniii&layout=compact&theme=maroon&hide_border=true" alt="Top Languages">
-</div>
-
+<p align="center">
+  <a href="https://github.com/Bifaniii">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bifaniii&show_icons=true&theme=maroon&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/Bifaniii">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bifaniii&layout=compact&theme=maroon&hide_border=true" alt="Top Languages"/>
+  </a>
+</p>
