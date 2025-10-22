@@ -70,6 +70,21 @@
     <img src="https://img.shields.io/badge/Linktree-Acessar?style=social&logo=linktree">
   </a>
 </p>
+---
+
+<h2>📊 Estatísticas do GitHub</h2>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Bifaniii&show_icons=true&theme=maroon&hide_border=true" alt="GitHub Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bifaniii&layout=compact&theme=maroon&hide_border=true" alt="Top Languages">
+    </td>
+  </tr>
+</table>
+
 
 ---
 
