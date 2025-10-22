@@ -75,9 +75,8 @@
 
 <h2>📊 Estatísticas do GitHub</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bifaniii&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bifaniii&layout=compact&theme=radical&hide_border=true" alt="Top Langs">
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bifaniii&show_icons=true&theme=maroon&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bifaniii&layout=compact&theme=maroon&hide_border=true" alt="Top Languages">
+</div>
 
