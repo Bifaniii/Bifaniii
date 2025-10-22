@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou o Guilherme Bifani 👋</h1>
+<h1 align="center">Hello world! I'm Guilherme Bifani 👋</h1>
 
 <p align="center">
   Desenvolvedor Backend em formação | Java & Spring Boot | Python para automação e análise de dados
@@ -74,3 +74,4 @@
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bifaniii)](https://github.com/Bifaniii/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bifaniii)](https://github.com/Bifaniii/github-readme-stats)
