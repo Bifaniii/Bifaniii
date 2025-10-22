@@ -73,5 +73,11 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bifaniii&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bifaniii&layout=compact&theme=dark&hide_border=true)
+<h2>📊 Estatísticas do GitHub</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bifaniii&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bifaniii&layout=compact&theme=radical&hide_border=true" alt="Top Langs">
+</p>
+
