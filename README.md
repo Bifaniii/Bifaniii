@@ -70,3 +70,7 @@
     <img src="https://img.shields.io/badge/Linktree-Acessar?style=social&logo=linktree">
   </a>
 </p>
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bifaniii)](https://github.com/Bifaniii/github-readme-stats)
