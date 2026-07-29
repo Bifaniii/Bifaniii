@@ -66,7 +66,7 @@
 
 ## 📌 Projetos em destaque
 
-- **Fly-AI** — Chatbot de viagens desenvolvido em grupo na faculdade, com IA integrada para sugestões de destino e planejamento de viagem. [Ver deploy »](https://flyai-v4.vercel.app/)
+- **Fly-AI** — Chatbot de viagens desenvolvido em grupo na faculdade, com IA integrada para sugestões de destino e planejamento de viagem. **[Ver deploy »](https://flyai-v4.vercel.app/)**
 - **[Task Manager Java](https://github.com/Bifaniii/task-manager-java)** — API REST completa com Spring Boot, Spring Security, autenticação JWT, MySQL e documentação via Swagger/OpenAPI. Projeto finalizado.
 - **[Clínica Java](https://github.com/Bifaniii/Clinica-Java)** — API REST para gestão de clínica, em desenvolvimento contínuo — projeto usado para consolidar conceitos de Spring Boot.
 
