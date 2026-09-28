@@ -6,13 +6,13 @@ Hoje faço estágio de TI em suporte a sistemas ERP e curso Análise e Desenvolv
 
 ## Projetos
 
-O [House Task Manager](https://github.com/Bifaniii/mobile-house-task-manager-java) é o mais completo. São dois microsserviços, um de usuários e outro de tarefas, cada um com seu próprio MySQL. O de tarefas consulta o de usuários por REST, e cada cadastro publica um evento no RabbitMQ. Sobe inteiro com Docker Compose e tem 51 testes.
+O [House Task Manager](https://github.com/Bifaniii/mobile-house-task-manager-java) é o mais completo. São dois microsserviços, um de usuários e outro de tarefas, cada um com seu próprio MySQL. O de tarefas consulta o de usuários por REST, e cada cadastro publica um evento no RabbitMQ. Sobe inteiro com Docker Compose.
 
 O [Octopus](https://github.com/Bifaniii/Octopus) é o projeto da minha squad na faculdade: um painel de medicação e internação para uma clínica veterinária. Fiz o módulo de usuários, com perfis de acesso e Flyway, e o de medicações. O [front em Angular](https://octopus-front-delta.vercel.app) está no ar.
 
 Tenho também APIs menores, onde fui treinando Spring Security e JPA: [Task Manager](https://github.com/Bifaniii/task-manager-java) (JWT e Swagger), [Clínica](https://github.com/Bifaniii/Clinica-Java) (pacientes, médicos e consultas), [Subscriptions](https://github.com/Bifaniii/subscriptions-java) (planos de assinatura em Docker) e [Market API](https://github.com/Bifaniii/market-api-java) (produtos de um mercadinho).
 
-Todos esses repositórios têm testes com JUnit 5 e Mockito, que o GitHub Actions roda a cada push. Na faculdade também participei do [Fly AI](https://flyai-v4.vercel.app/), um chatbot de viagens com IA feito em grupo.
+Os projetos têm testes com JUnit e Mockito e rodam no GitHub Actions. Na faculdade também participei do [Fly AI](https://flyai-v4.vercel.app/), um chatbot de viagens com IA feito em grupo.
 
 ## Stack
 
