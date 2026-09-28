@@ -58,7 +58,7 @@ Tenho a certificação Oracle Cloud Infrastructure (OCI) 2025 Foundations Associ
   <a href="https://www.linkedin.com/in/guilhermebifani/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
-  <a href="https://portfolio-web-phi-ecru.vercel.app" target="_blank">
+  <a href="https://guilhermebifani-ecru.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-111418?style=for-the-badge&logo=angular&logoColor=white" height="35" alt="Portfólio" />
   </a>
 </div>
